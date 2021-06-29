@@ -1,6 +1,8 @@
 Hello Devs.
 Myself is Sakshat Jain
 I am Executime member of SDS.
-I am worl=king on a small project named SnapMailer.
+I am working on a small project named SnapMailer.
 But i was unable to integerate datebase with my app.
+Can anyone give suggestions which database can 
+I use to increase the speed of my app.
 
