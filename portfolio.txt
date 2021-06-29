@@ -1,4 +1,6 @@
 Hello Devs.
-My name is Sakshat Jain
+Myself is Sakshat Jain
 I am Executime member of SDS.
+I am worl=king on a small project named SnapMailer.
+But i was unable to integerate datebase with my app.
 
